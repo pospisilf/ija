@@ -1,0 +1,26 @@
+Novakova:10,60:Novakova
+Cervena:60,180:Cervena
+Karlova:180,190:Karlova
+Taborska:305,250:Taborska
+Bieblova:400,80:Bieblova
+Fugnerova:120,10:Fugnerova
+Peterska:280,10:Fugnerova
+Milady Horakove:437,10:Milady Horakove
+Erbenova:550,20:Erbenova
+Erbenova Obchod:550,220:Erbenova
+Erbenova Jih:550,520:Erbenova
+Plotni:120,550:Plotni
+Hrbitov:420,550:Plotni
+Brezinska:10,320:Brezinska
+Pospisilova:180,384:Pospisilova
+Masna:220,500:Masna
+Kabatova:400,270:Kabatova
+Zborovecka:350,450:Zborovecka
+Sovova:370,400:Sovova
+Hrabynska:80,270:Hrabynska
+Hrabynska 2:80,470:Hrabynska
+Prazska:120,500:Prazska
+Krizikova:500,320:Krizikova
+Bozetechova:452,250:Bozetechova
+Kladrubska:130,250:Kladrubska
+Nadrazi:0,0:Novakova

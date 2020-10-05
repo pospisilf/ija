@@ -1,0 +1,76 @@
+Nadrazi:Fugnerova
+Nadrazi:Novakova
+Fugnerova:Peterska
+Fugnerova:Nadrazi
+Peterska:Fugnerova
+Peterska:Milady Horakove
+Peterska:Bieblova
+Milady Horakove:Peterska
+Milady Horakove:Bieblova
+Milady Horakove:Erbenova
+Erbenova:Milady Horakove
+Erbenova:Erbenova Obchod
+Novakova:Nadrazi
+Novakova:Cervena
+Novakova:Brezinska
+Bieblova:Peterska
+Bieblova:Milady Horakove
+Bieblova:Taborska
+Bieblova:Kabatova
+Bieblova:Bozetechova
+Cervena:Novakova
+Cervena:Brezinska
+Cervena:Karlova
+Karlova:Cervena
+Karlova:Kladrubska
+Karlova:Pospisilova
+Karlova:Taborska
+Kladrubska:Karlova
+Kladrubska:Pospisilova
+Kladrubska:Hrabynska
+Kladrubska:Taborska
+Taborska:Kladrubska
+Taborska:Karlova
+Taborska:Bozetechova
+Taborska:Kabatova
+Taborska:Pospisilova
+Taborska:Bieblova
+Bozetechova:Taborska
+Bozetechova:Bieblova
+Bozetechova:Krizikova
+Bozetechova:Kabatova
+Kabatova:Bieblova
+Kabatova:Taborska
+Kabatova:Bozetechova
+Hrabynska:Kladrubska
+Hrabynska:Hrabynska 2
+Hrabynska 2:Hrabynska
+Hrabynska 2:Prazska
+Prazska:Hrabynska 2
+Prazska:Masna
+Prazska:Pospisilova
+Pospisilova:Karlova
+Pospisilova:Kladrubska
+Pospisilova:Masna
+Pospisilova:Taborska
+Pospisilova:Prazska
+Masna:Prazska
+Masna:Pospisilova
+Masna:Zborovecka
+Zborovecka:Masna
+Zborovecka:Sovova
+Sovova:Zborovecka
+Sovova:Krizikova
+Krizikova:Bozetechova
+Krizikova:Sovova
+Brezinska:Novakova
+Brezinska:Cervena
+Brezinska:Plotni
+Plotni:Brezinska
+Plotni:Hrbitov
+Hrbitov:Plotni
+Hrbitov:Erbenova Jih
+Erbenova Jih:Hrbitov
+Erbenova Jih:Erbenova Obchod
+Erbenova Obchod:Erbenova Jih
+Erbenova Obchod:Erbenova
