@@ -1,5 +1,5 @@
 # ija
-Seminář Java - obsahuje úlohy a projekt (Java)
+Seminář Java
 
 # Úkoly
 Dva úkoly spočívaly v implementaci řešení předem daných problémů. Využitelnost úkolů při řešení projektu byla dobrá.
